@@ -12,3 +12,4 @@ langgenius/dify-web:0.6.11
 langgenius/dify-sandbox:0.2.1
 semitechnologies/weaviate:1.19.0
 ubuntu/squid:latest
+6053537/portainer:latest
