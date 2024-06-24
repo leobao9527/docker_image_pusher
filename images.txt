@@ -13,3 +13,5 @@ langgenius/dify-sandbox:0.2.1
 semitechnologies/weaviate:1.19.0
 ubuntu/squid:latest
 6053537/portainer:latest
+# 网心魔法
+onething1/wxedge:3.0.2
