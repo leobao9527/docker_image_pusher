@@ -1,17 +1,2 @@
-nginx:latest
-redis:6-alpine
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-#dify
-langgenius/dify-api:0.6.11
-langgenius/dify-api:0.6.11
-langgenius/dify-web:0.6.11
-langgenius/dify-sandbox:0.2.1
-semitechnologies/weaviate:1.19.0
-ubuntu/squid:latest
-6053537/portainer:latest
-# 网心魔法
-onething1/wxedge:3.0.2
+whyour/qinglong:latest
+whyour/qinglong:debian
