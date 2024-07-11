@@ -1,1 +1,1 @@
-lazyteam/lazydocker
+linkease/ddnsto
