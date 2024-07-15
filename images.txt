@@ -1,4 +1,1 @@
-langgenius/dify-api:0.6.13
-langgenius/dify-web:0.6.13
-langgenius/dify-sandbox:0.2.1
-langgenius/qdrant:v1.7.3
+myscale/myscaledb:1.6
