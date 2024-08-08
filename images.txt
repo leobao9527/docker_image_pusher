@@ -1,1 +1,1 @@
-logicjake/webmonitor
+wiseflow:latest
