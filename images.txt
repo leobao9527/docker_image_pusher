@@ -1,1 +1,1 @@
-wiseflow:latest
+mysql:latest
