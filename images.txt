@@ -1,1 +1,2 @@
-lobehub/lobe-chat
+postgres:15-alpine
+ghcr.io/umami-software/umami:postgresql-latest
