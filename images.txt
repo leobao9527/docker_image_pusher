@@ -1,2 +1,1 @@
-postgres:15-alpine
-ghcr.io/umami-software/umami:postgresql-latest
+jasminexzzz/blossom:1.16.0
