@@ -1,1 +1,1 @@
-jasminexzzz/blossom:1.16.0
+ghcr.io/binary-husky/gpt_academic_nolocal:master
