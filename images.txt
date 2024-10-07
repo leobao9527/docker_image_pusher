@@ -1,1 +1,2 @@
-ghcr.io/binary-husky/gpt_academic_nolocal:master
+quay.io/minio/minio
+fireboomapi/fireboom_server:latest
