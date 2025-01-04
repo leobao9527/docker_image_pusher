@@ -1,2 +1,1 @@
-quay.io/minio/minio
-fireboomapi/fireboom_server:latest
+umamisoftware/umami:mysql-latest
