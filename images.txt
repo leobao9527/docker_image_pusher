@@ -1,1 +1,1 @@
-umamisoftware/umami:mysql-latest
+ollama/ollama
